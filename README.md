@@ -12,7 +12,7 @@ I also bring to the table:
 Strong skills in Object-Oriented Programming, pair programming, and test-driven development.
 Experience in Agile and SCRUM methodologies.
 Proven expertise in modern web development technologies.
-Proven expertise in cloud technologies like AWS and container technologies like Docker.
+Experience in cloud technologies like AWS and container technologies like Docker.
 Passion for environmental sustainability and water conservation.
 When I'm not behind the screen, you can usually find me exploring the great outdoors, fostering dogs, or volunteering for city sustainability initiatives. :dog: :deciduous_tree:
 
