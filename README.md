@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 Katie Geyer - Full Stack Developer
+
 Hello there! :wave: I'm Katie, a full-stack web developer with a solid grounding in Python, JavaScript, SQL, HTML5, CSS, and more. My journey in software development began at App Academy, where I learned to build dynamic, user-friendly web applications using frameworks and tools like React.js, Redux, Flask, Express, and NodeJS.
 
 Before diving into the world of tech, I dedicated my career to hydrology and environmental sustainability. This background fuels my commitment to build solutions that are not only effective but also sustainable and environmentally friendly.
