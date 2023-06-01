@@ -5,7 +5,7 @@ Hello there! :wave: I'm Katie, a full-stack web developer with a solid grounding
 
 Before diving into the world of tech, I dedicated my career to hydrology and environmental sustainability. This background fuels my commitment to build solutions that are not only effective but also sustainable and environmentally friendly.
 
-My knack for problem-solving and innovation is matched by a passion for creating user-centric designs. Leveraging my expertise in UI/UX design, I love to make applications that are as pleasing to the eye as they are to use. :art: :computer:
+My knack for problem-solving and innovation is matched by a passion for creating user-centric designs. Leveraging my passion of UI/UX design, I love to make applications that are as pleasing to the eye as they are to use. :art: :computer:
 
 I also bring to the table:
 
