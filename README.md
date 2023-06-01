@@ -24,7 +24,7 @@ Skills :toolbox:
 Languages: Python, JSON, JavaScript, SQL, HTML5, CSS
 Frameworks/Tools: React.js, Redux, Flask, Express, NodeJS, SQL, Git, PostgreSQL, AWS, Docker
 Let's Connect! :handshake:
-I'm always up for a good conversation, especially if it's about tech, the environment, or dogs! Feel free to reach out to me on LinkedIn or GitHub.
+I'm always up for a good conversation, especially if it's about tech, the environment, or dogs! Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/katie-geyer-087a21169/) or GitHub.
 
 I am open to discussing job opportunities, project collaborations, or even just a friendly chat. Don't hesitate to reach out!
 
